@@ -16,8 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jvxx1188&theme=blue-green)
 
 </div>
-[![Meus Stats](https://github-readme-stats.vercel.app/api?username=Jvxx1188&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
