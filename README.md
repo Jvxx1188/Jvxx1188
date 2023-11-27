@@ -9,7 +9,7 @@
 
 
 
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Meus Stats](https://github-readme-stats.vercel.app/api?username=Jvxx1188&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
