@@ -1,8 +1,6 @@
 ### Minhas Linguagens
 
-<div style="display: flex;">
 
-  <div>
     <!-- Div para a primeira coluna -->
     ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,14 +9,10 @@
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  </div>
 
-  <div>
     <!-- Div para a segunda coluna -->
     ![](https://github-readme-streak-stats.herokuapp.com/?user=Jvxx1188&theme=blue-green)
-  </div>
 
-</div>
 
 <!--
 **Jvxx1188/jvxx1188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
