@@ -3,9 +3,21 @@
 
 <h2> nome 💬: José Victor</h2>
 <h2> Idade 💬:17 anos</h2>
-<p width="50%">sobre mim 🤔 : Sou um jovem apaixonado por programação em busca de <br/> me especializar no mundo do desenvolvimento de software. <br/> Iniciei meus estudos tentando criar jogos na Unity utilizando C# em 2020. Desde então, aprimorei significativamente meu raciocínio <br/> lógico e métodos para resolver problemas, <br/> do qual me sinto orgulhoso por não ter parado. Agora, estou buscando mais. <br/> Mais profissionalismo, mais eficiência e mais conhecimento. <br/> Disciplina eu sei que tenho, e estou em busca <br/> de um primeiro emprego para aprimorar ainda mais nesta área e <br/> em minha didática para trabalhar com equipes.</p>
+<p >sobre mim 🤔 : Sou um jovem apaixonado por programação em busca de <br/> 
+me especializar no mundo do desenvolvimento de software. <br/> 
+Iniciei meus estudos tentando criar jogos na Unity utilizando <br/> 
+C#  em 2020. Desde então, aprimorei significativamente meu raciocínio 
+<br/> lógico e métodos para resolver problemas, do qual me sinto <br/> 
+orgulhoso por não ter parado. Agora, estou buscando mais.
+<br/> Mais profissionalismo, mais eficiência e mais conhecimento. 
+<br/> Disciplina eu sei que tenho, e estou em busca de um primeiro 
+<br/>emprego para aprimorar ainda mais nesta área e em minha didática 
+<br/>para trabalhar com equipes.</p>
 
+###Informações extras 
 
+<p>°fui estoquista de loja (Jovem Aprendiz) com 14 anos<p/>
+<p>°fiz um freelancer para organizar a estilização do retorno de uma api</p>
 
 <h2 align="center">Minhas Linguagens Principais</h2>
 
