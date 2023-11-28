@@ -1,6 +1,10 @@
-<h3> 🔭 Atualmente Trabalhando em um site de posts</h3>
-<h3> 🤔 Procurando me especializar sem faculdade</h3>
-<h3> 💬 17 Anos FUll Stack Developer</h3>
+<h5> 🔭 Atualmente Trabalhando em um site de posts</h3>
+<h3> 17 Anos FUll Stack Developer</h3>
+
+<h2> nome 💬: José Victor</h2>
+<h2> Idade 💬:17 anos</h2>
+<p>sobre mim 🤔 : Sou um jovem apaixonado por programação em busca de se especializar no mundo do desenvolvimenteo de software. <br/> iniciei meus estudos tentando criar jogos na unity utilizando c#, lá em 2020, de lá pra cá melhorei absurdamente meu raciocínio lógico e métodos para resolver problemas do qual me sinto orgulhoso de não ter parado, agora estou buscando mais. <br/> mais profissionalismo, mais efíciencia e mais conhecimento <br/> disciplina eu sei que tenho, e estou em busca de um primeiro emprego para melhorar ainda mais em todos os ambientes da minha carreira</p>
+
 
 
 <h2 align="center">Minhas Linguagens Principais</h2>
