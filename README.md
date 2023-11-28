@@ -5,11 +5,10 @@
 
 | Cat pics                            | Dog pics                            | Lizzard                                     |
 | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
-| ![cat](https://example.com/cat.png) | ![dog](https://example.com/dog.png) | ![lizzard](https://example.com/lizzard.png) |
+| ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![dog](https://example.com/dog.png) | ![lizzard](https://example.com/lizzard.png) |
 
-<table border="0">
- <tr>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src=""/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
