@@ -5,17 +5,16 @@
 
 <h1>Minhas Linguagens</h1>
 
-<table>
-  <tr style="display: flex; justify-content: space-around; align-items: center;">
-    <td><p><img style="display: block;"  src="./icons/html.svg"></p></td>
-    <td><p><img style="display: block;" src="./icons/css.svg"></p></td>
-    <td><p><img style="display: block;" src="./icons/react-original-wordmark.svg"></p></td>
-    <td><p ><img src="./icons/ts.svg"></p></td>
-    <td><p ><img src="./icons/tailwind.svg"></p></td>
-    <td><p ><img src="./icons/node.svg"></p></td>
-    <td><p><img src="./icons/prisma.svg"></p></td>
-  </tr>
-</table>
+
+  <div style="display: flex; justify-content: space-around; align-items: center;">
+<p><img style="display: block;"  src="./icons/html.svg"></p>
+    <p><img style="display: block;" src="./icons/css.svg"></p>
+    <p><img style="display: block;" src="./icons/react-original-wordmark.svg"></p>
+   <p ><img src="./icons/tailwind.svg"></p>
+  <p ><img src="./icons/node.svg"></p>
+   <p><img src="./icons/prisma.svg"></p>
+  </div>
+
 
 
 
