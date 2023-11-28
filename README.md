@@ -3,6 +3,9 @@
 <h3>- 🤔 Procurando Me Especializar Sem Faculdade</h3>
 <h3>- 💬 17 Anos FUll Stack Developer</h3>
 
+| Cat pics                            | Dog pics                            | Lizzard                                     |
+| ----------------------------------- | ----------------------------------- | ------------------------------------------- |
+| ![cat](https://example.com/cat.png) | ![dog](https://example.com/dog.png) | ![lizzard](https://example.com/lizzard.png) |
 
 <table border="0">
  <tr>
