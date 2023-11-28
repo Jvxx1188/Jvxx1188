@@ -2,7 +2,7 @@
 <h2> 17 Anos FUll Stack Developer</h3>
 <h4> nome 💬: José Victor</h2>
 <h4> Idade 💬:17 anos</h2>
-<p >sobre mim 🤔 : Sou um jovem apaixonado por programação <br/> 
+<p > <strong>sobre mim 🤔 : <strong/> Sou um jovem apaixonado por programação <br/> 
 em busca de me especializar no mundo do desenvolvimento de <br/> 
 software. <br/> 
 Iniciei meus estudos tentando criar jogos na Unity utilizando <br/> 
