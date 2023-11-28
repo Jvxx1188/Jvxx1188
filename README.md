@@ -3,21 +3,21 @@
 <h3>- 🤔 Procurando Me Especializar Sem Faculdade</h3>
 <h3>- 💬 17 Anos FUll Stack Developer</h3>
 
-<div align="center">
-  
-  <!-- Left Column -->
-  <div style="float:left; width:45%;">
-    <h2>Left Column</h2>
-    <p>This is the content of the left column.</p>
-    
-  </div>
-  <div style="float:right; width:45%;">
-    <h2>Right Column</h2>
-    <p>This is the content of the right column.</p>
-    
-  </div>
+<table>
+  <tr>
+    <td>
 
-</div>
+#### Left Column
+
+<p>asasdsad</p>
+    </td>
+    <td>
+
+#### Right Column
+
+<p>asasdsad</p>
+  </tr>
+</table>
 
 | Cat pics      | Lizzard                                     |
 | ----------------------------------- | ------------------------------------------- |
