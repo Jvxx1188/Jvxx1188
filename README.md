@@ -6,7 +6,7 @@
 <h1>Minhas Linguagens</h1>
 
 <table>
-  <tr>
+  <tr style="display: flex; justify-content: space-around; align-items: center;">
     <td><p><img style="display: block;"  src="./icons/html.svg"></p></td>
     <td><p><img style="display: block;" src="./icons/css.svg"></p></td>
     <td><p><img style="display: block;" src="./icons/react-original-wordmark.svg"></p></td>
