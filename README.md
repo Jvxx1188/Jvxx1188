@@ -3,6 +3,22 @@
 <h3>- 🤔 Procurando Me Especializar Sem Faculdade</h3>
 <h3>- 💬 17 Anos FUll Stack Developer</h3>
 
+<div align="center">
+  
+  <!-- Left Column -->
+  <div style="float:left; width:45%;">
+    <h2>Left Column</h2>
+    <p>This is the content of the left column.</p>
+    
+  </div>
+  <div style="float:right; width:45%;">
+    <h2>Right Column</h2>
+    <p>This is the content of the right column.</p>
+    
+  </div>
+
+</div>
+
 | Cat pics      | Lizzard                                     |
 | ----------------------------------- | ------------------------------------------- |
 | ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvxx1188&theme=blue-green)|
