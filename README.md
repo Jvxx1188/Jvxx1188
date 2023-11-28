@@ -1,5 +1,6 @@
-### Minhas Linguagens
+- 🔭 Atualmente Trabalhando em um site de posts
 
+### Minhas Linguagens
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -12,8 +13,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvxx1188)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
