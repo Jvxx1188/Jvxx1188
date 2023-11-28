@@ -12,7 +12,7 @@
     <td>
       <table align="center" >
   <tr>
-    <td style="text-align : center">
+    <td style="align="center">
       <h1>Minhas Linguagens</h1>
       <br/>
       <p><img style="display: block;"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></p>
