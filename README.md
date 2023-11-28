@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <h3>- 🤔 Procurando Me Especializar Sem Faculdade</h3>
 <h3>- 💬 17 Anos FUll Stack Developer</h3>
-<h2 align="center">📫 Como me contactar :</h2> 
+
+<h2 >📫 Como me contactar :</h2> 
 <p>Email : jvxx1188@gmail.com</p>
 <p>Telefone : +55 (21) 97744-5480</p>
 
