@@ -12,7 +12,7 @@ me sinto orgulhoso por não ter parado. Agora, estou buscando<br/>
 mais. Mais profissionalismo, mais eficiência e mais conhecimento. 
 <br/> Disciplina eu sei que tenho, e estou em busca de um primeiro 
 <br/>emprego para aprimorar ainda mais nesta área e em minha <br/> 
-didática para trabalhar com equipes.<i/> </p>
+didática para trabalhar com equipes.</i> </p>
 
 ### Informações extras 
 
