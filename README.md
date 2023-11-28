@@ -3,7 +3,7 @@
 <h3> 💬 17 Anos FUll Stack Developer</h3>
 
 
-<h1>Minhas Linguagens</h1>
+<h2 align="center">Minhas Linguagens Principais</h2>
 
 
   <div align="center">
