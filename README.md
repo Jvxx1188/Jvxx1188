@@ -6,8 +6,7 @@
 
 
 
-
-      <table align="center" >
+<table align="center" >
   <tr>
     <td align="center">
       <h1>Minhas Linguagens</h1>
