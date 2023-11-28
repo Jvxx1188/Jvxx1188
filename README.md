@@ -14,7 +14,6 @@
     <td><p align="center"><img src="./icons/ts.svg"></p></td>
     <td><p align="center"><img src="./icons/tailwind.svg"></p></td>
     <td><p align="center"><img src="./icons/node.svg"></p></td>
-    <td><p align="center"><img src="./icons/prisma.svg"></p></td>
   </tr>
 </table>
 
