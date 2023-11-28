@@ -5,7 +5,11 @@
 
 ### Minhas Linguagens
 
+
 <table align="center" >
+  <tr>
+    <td>
+      <table align="center" >
   <tr>
     <td>
       <p><img style="display: block;"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></p>
@@ -20,7 +24,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvxx1188&theme=blue-green">
   </tr>
 </table>
-
+</td>
+    <td>
+      <h1>asdqeqweqe</h1>
+</tr>
+</table>
 
 
 
