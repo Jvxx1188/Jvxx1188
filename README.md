@@ -1,6 +1,6 @@
 - 🔭 Atualmente Trabalhando em um site de posts
 
-<h3>- 🤔 Procurando Me Especializar Sem Faculdade</h3>
+<h3>- 🤔 Procurando me especializar sem faculdade</h3>
 <h3>- 💬 17 Anos FUll Stack Developer</h3>
 
 
