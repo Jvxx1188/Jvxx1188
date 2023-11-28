@@ -14,10 +14,12 @@
 Here are some ideas to get you started:
 
 
-- 👯 I’m looking to collaborate on ...
 - 🤔 Procurando Me Especializar Sem Faculdade
 - 💬 17 Anos FUll Stack Developer
-- 📫 Linkedin : <a href="https://www.linkedin.com/in/jos%C3%A9-dami%C3%A3o-b8b3b5258/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="center">📫 Como me contactar :</h2> 
+Email : jvxx1188@gmail.com
+Telefone : +55 (21) 97744-5480
+- <a target="_blank" href="https://www.linkedin.com/in/jos%C3%A9-dami%C3%A3o-b8b3b5258/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+- <a target="_blank" href="https://www.linkedin.com/in/jos%C3%A9-dami%C3%A3o-b8b3b5258/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+
