@@ -4,16 +4,16 @@
 
 
 <h1>Minhas Linguagens</h1>
-<br/>
 
 <table>
   <tr>
     <td><p align="center"><img style="display: block;"  src="./icons/html.svg"></p></td>
     <td><p align="center"><img style="display: block;" src="./icons/css.svg"></p></td>
-    <td><p align="center"><img style="display: block;" ssrc="./icons/react-original-wordmark.svg"></p></td>
+    <td><p align="center"><img style="display: block;" src="./icons/react-original-wordmark.svg"></p></td>
     <td><p align="center"><img src="./icons/ts.svg"></p></td>
     <td><p align="center"><img src="./icons/tailwind.svg"></p></td>
     <td><p align="center"><img src="./icons/node.svg"></p></td>
+    <td><p align="center"><img src="./icons/prisma.svg"></p></td>
   </tr>
 </table>
 
