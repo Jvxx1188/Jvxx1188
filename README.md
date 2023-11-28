@@ -3,7 +3,9 @@
 <h3>- 🤔 Procurando Me Especializar Sem Faculdade</h3>
 <h3>- 💬 17 Anos FUll Stack Developer</h3>
 
-<table style="width :100%" >
+### Minhas Linguagens
+
+<table align="center" >
   <tr>
     <td>
       <p><img style="display: block;"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></p>
@@ -20,7 +22,7 @@
 </table>
 
 
-### Minhas Linguagens
+
 
 
 <h2 >📫 contato</h2> 
