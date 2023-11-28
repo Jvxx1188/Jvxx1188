@@ -6,7 +6,7 @@
 <h1>Minhas Linguagens</h1>
 
 
-  <div style="display: flex; justify-content: space-around; align-items: center;">
+  <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
 <p><img style="display: block;"  src="./icons/html.svg"></p>
     <p><img style="display: block;" src="./icons/css.svg"></p>
     <p><img style="display: block;" src="./icons/react-original-wordmark.svg"></p>
