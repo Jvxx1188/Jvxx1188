@@ -5,7 +5,7 @@
 
 | Cat pics      | Lizzard                                     |
 | ----------------------------------- | ------------------------------------------- |
-| ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvxx1188&theme=blue-green)| ![lizzard](https://example.com/lizzard.png) 
+| ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvxx1188&theme=blue-green)|
 
 
 
