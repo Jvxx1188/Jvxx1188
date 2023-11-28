@@ -7,12 +7,12 @@
 
 
   <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap;">
-<img "  src="./icons/html.svg">
-    <img" src="./icons/css.svg">
-  <img " src="./icons/react-original-wordmark.svg">
-  <img src="./icons/tailwind.svg">
- <img src="./icons/node.svg">
-   <img src="./icons/prisma.svg">
+<img width="50"  src="./icons/html.svg">
+    <img width="50" src="./icons/css.svg">
+  <img width="50" src="./icons/react-original-wordmark.svg">
+  <img width="50 src="./icons/tailwind.svg">
+ <img width="50 src="./icons/node.svg">
+   <img width="50 src="./icons/prisma.svg">
   </div>
 
 
