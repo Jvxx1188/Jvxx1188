@@ -10,9 +10,9 @@ C#  em 2020. Desde então, aprimorei significativamente meu <br/>
 raciocínio lógico e métodos para resolver problemas, do qual<br/> 
 me sinto orgulhoso por não ter parado. Agora, estou buscando<br/>
 mais. Mais profissionalismo, mais eficiência e mais conhecimento. 
-<br/> Disciplina eu sei que tenho, e estou em busca de um primeiro 
-<br/>emprego para aprimorar ainda mais nesta área e em minha <br/> 
-didática para trabalhar com equipes.</p>
+<br/>Tenho disciplina e estou em busca de me profissionalizar 
+<br/>ainda mais nesta área e em minha didática para trabalhar com equipes.
+</p>
 
 ### Informações extras 
 
