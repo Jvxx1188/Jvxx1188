@@ -35,8 +35,9 @@ mais. Mais profissionalismo, mais eficiência e mais conhecimento.
 ## Projetos Principais
 
 <a href="https://github.com/Jvxx1188/background-clock-page" target="_blank">Plano de Fundo de video responsivo</a>
-<p>Pagína De Posts : em produção <a href="https://www.linkedin.com/posts/jos%C3%A9-dami%C3%A3o-b8b3b5258_boa-noite-site-de-posts-atualizado-e-activity-7134664817767854080-uB-3?utm_source=share&utm_medium=member_desktop" target="_blank">Video do Linkedin</a></p>
+<p>Surprisegram - pagína de posts anônimos que fiz para meus amigos <a href="https://www.linkedin.com/posts/jos%C3%A9-dami%C3%A3o-b8b3b5258_boa-noite-site-de-posts-atualizado-e-activity-7134664817767854080-uB-3?utm_source=share&utm_medium=member_desktop" target="_blank">Video do Linkedin</a></p>
 
+<a href="./curriculo.pdf" target="_blank">curriculo e informações do meu site de posts</a>
 
 <div align="center">
   <h2 >📫 contato</h2> 
