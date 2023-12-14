@@ -1,5 +1,4 @@
-<h5> 🔭 Atualmente Trabalhando em um site de posts</h3>
-<h2> 17 Anos FUll Stack Developer</h3>
+<h2> Full Stack Developer</h3>
 <h4> nome 💬: José Victor</h2>
 <h4> Idade 💬:17 anos</h2>
 <p > <strong>sobre mim 🤔 : </strong> Sou um jovem apaixonado por programação <br/> 
