@@ -4,7 +4,6 @@
 <p > <strong>sobre mim 🤔 : </strong> Sou um jovem apaixonado por programação <br/> 
 em busca de me especializar no mundo do desenvolvimento de <br/> 
 software. <br/> 
-### Informações extras 
 
 <h2 align="center">SKills</h2>
 
@@ -14,14 +13,27 @@ software. <br/>
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
+Soft and Hard Skills
+
+Avançado em REACT,Typescript,Javascript
+
+Intermediario em Express.js,PostgressSQL,PrismaORM,Fastify
+
+Já utilizei amazon S3,Atlas,mongoDB,
+
+Outros : JWT, RESTFULL API
+
+conhecimento inicial em Nextjs,Redis ,JEST
 
 ## Projetos Principais
 
 
-<a href="https://github.com/Jvxx1188/background-clock-page" target="_blank">Lofi Focus</a>
-<a href="https://github.com/Jvxx1188/background-clock-page" target="_blank">Plano de Fundo de video responsivo</a>
+<a href="https://www.lofifocus.site/" target="_blank">Lofi Focus</a>
 <p>Surprisegram - pagína de posts anônimos que fiz para meus amigos <a href="https://www.linkedin.com/posts/jos%C3%A9-dami%C3%A3o-b8b3b5258_boa-noite-site-de-posts-atualizado-e-activity-7134664817767854080-uB-3?utm_source=share&utm_medium=member_desktop" target="_blank">Video do Linkedin</a></p>
 
 <a href="https://jvxx1188.github.io/jvxx1188/cv.pdf" target="_blank">curriculo</a>
