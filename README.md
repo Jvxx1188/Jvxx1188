@@ -36,8 +36,6 @@ conhecimento inicial em Nextjs,Redis ,JEST
 <a href="https://www.lofifocus.site/" target="_blank">Lofi Focus</a>
 <p>Surprisegram - pagína de posts anônimos que fiz para meus amigos <a href="https://www.linkedin.com/posts/jos%C3%A9-dami%C3%A3o-b8b3b5258_boa-noite-site-de-posts-atualizado-e-activity-7134664817767854080-o-DH?utm_source=share&utm_medium=member_desktop">Video do Linkedin</a></p>
 
-<a href="https://jvxx1188.github.io/jvxx1188/cv.pdf" target="_blank">curriculo</a>
-
 <div align="center">
   <h2 >📫 contato</h2> 
 <p>Email : jvxx1188@gmail.com</p>
