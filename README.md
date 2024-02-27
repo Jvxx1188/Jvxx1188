@@ -22,11 +22,11 @@ Avançado em React, Typescript, Javascript,  TailwindCss, Node
 
 Intermediario em Express.js, PostgressSQL, PrismaORM, Fastify
 
-Já utilizei amazon S3,Atlas,mongoDB,
+Já utilizei banco de dados em nuvem Atlas - mongoDB.
 
-Outros : JWT, RESTFULL API
+Outros conhecimentos : JWT, RESTFULL API, HASH password
 
-conhecimento inicial em Nextjs,Redis ,JEST
+conhecimento inicial em Nextjs, Redis
 
 ## Projetos Principais
 
