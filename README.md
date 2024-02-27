@@ -1,9 +1,10 @@
 <h2> Full Stack Developer</h3>
 <h4> nome 💬: José Victor</h2>
-<h4> Idade 💬:17 anos</h2>
 <p > <strong>sobre mim 🤔 : </strong> Sou um jovem apaixonado por programação <br/> 
 em busca de me especializar no mundo do desenvolvimento de <br/> 
-software. <br/> 
+software.
+sempre me aprimorando com base ao mercado e buscando conhecimento prático no dia a dia.
+  <br/> 
 
 <h2 align="center">SKills</h2>
 
