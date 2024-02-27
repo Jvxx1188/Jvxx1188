@@ -1,5 +1,5 @@
 <h2> Full Stack Developer</h3>
-<h4> nome 💬: José Victor</h2>
+
 <p > <strong>sobre mim 🤔 : </strong> Sou um jovem apaixonado por programação <br/> 
 em busca de me especializar no mundo do desenvolvimento de <br/> 
 software.
