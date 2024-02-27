@@ -1,4 +1,3 @@
-<h2> Full Stack Developer</h3>
 
 <p > <strong>sobre mim 🤔 : </strong> Sou um jovem apaixonado por programação <br/> 
 em busca de me especializar no mundo do desenvolvimento de <br/> 
@@ -19,11 +18,9 @@ sempre me aprimorando com base ao mercado e buscando conhecimento prático no di
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-Soft and Hard Skills
+Avançado em React, Typescript, Javascript,  TailwindCss, Node
 
-Avançado em REACT,Typescript,Javascript, TailwindCss
-
-Intermediario em Express.js,PostgressSQL,PrismaORM,Fastify
+Intermediario em Express.js, PostgressSQL, PrismaORM, Fastify
 
 Já utilizei amazon S3,Atlas,mongoDB,
 
