@@ -5,7 +5,7 @@ software.
 sempre me aprimorando com base ao mercado e buscando conhecimento prático no dia a dia.
   <br/> 
 
-<h2 align="center">SKills</h2>
+<h2>SKills</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,10 +39,10 @@ conhecimento inicial em Nextjs, Redis
 <p>Email : jvxx1188@gmail.com</p>
 <p>Telefone : +55 (21) 97744-5480</p>
 
+
+Conheça mais sobre mim no meu linkedin
+
 <a target="_blank" href="https://www.linkedin.com/in/jos%C3%A9-dami%C3%A3o-b8b3b5258/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-
-conheça mais sobre mim no meu linkedin
-
 <!--falta adicionar meus projetos, adicionar um sobre mim melhor e talvez ajeitar as linguagens-->
 
 
